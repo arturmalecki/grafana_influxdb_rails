@@ -9,7 +9,7 @@
 
 Run in your terminal:
 
-  docker-compose up
+    docker-compose up
 
 Then you can use those ports:
 
